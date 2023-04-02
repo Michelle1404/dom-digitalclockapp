@@ -4,7 +4,7 @@ Dieses Projekt ist eine einfache digitale Uhr, die in JavaScript geschrieben wur
 
 ## Installation
 
-1. Clone das Repository: `git clone https://github.com/[Benutzername]/digitaluhr.git`
+1. Clone das Repository
 2. Öffne die `index.html`-Datei in einem Webbrowser deiner Wahl
 
 ## Verwendung
