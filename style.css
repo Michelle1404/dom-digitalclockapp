@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+
+body {
+    background: rgb(0, 0, 0);
+}
+
+.clock {
+    width: 50%;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 6rem;
+    font-family: 'Rubik Vinyl', cursive;
+    letter-spacing: 20px;
+    background: rgba(255, 255, 255, 0.075);
+        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border-radius: 10px;
+        border: 1px solid rgba(255, 255, 255, 0.151);
+}
